@@ -1,7 +1,14 @@
 #Bike Sales Analysis using Excel
-This project focuses on analyzing bike sales data using Excel. The analysis includes cleaning and preparing the data, followed by creating insightful pivot tables and dashboards. Key steps in the analysis include:
+
+
+
+This project focuses on analyzing bike sales data using Excel. The analysis includes cleaning and preparing the data, followed by creating insightful pivot tables and dashboards. 
+
+Key steps in the analysis include:
 
 Data Cleaning and Preparation: Ensured the dataset is accurate and ready for analysis by addressing inconsistencies and missing values.
+
+
 
 Pivot Table Analysis:
 
